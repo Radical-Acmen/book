@@ -24,30 +24,29 @@
   * [模式识别与机器学习(Pattern Recognition And Machine Learning)](https://mqshen.gitbooks.io/prml/)
 #### Golang
   * [Golang标准库文档](http://godoc.ml/)
-  * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/Go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
-  * [Go 学习笔记](https://github.com/KeKe-Li/book/blob/master/Go/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
-  * [Go Recipes](https://github.com/KeKe-Li/book/blob/master/Go/Go%2BRecipes.pdf)
-  * [Go语言标准库](https://github.com/KeKe-Li/book/blob/master/Go/Go%E8%AF%AD%E8%A8%80%E6%A0%87%E5%87%86%E5%BA%93.pdf)
-  * [Introducing-Go](https://github.com/KeKe-Li/book/blob/master/Go/Introducing-Go.pdf)
-  * [Go语言圣经](https://github.com/KeKe-Li/book/blob/master/Go/The.Go.Programming.Language.pdf)
-  * [AntitextbookGo](https://github.com/KeKe-Li/book/blob/master/Go/antitextbookGo.pdf)
-  * [Go-building-web-applications](https://github.com/KeKe-Li/book/blob/master/Go/go-building-web-applications.pdf)
-  * [Go-design-patterns](https://github.com/KeKe-Li/book/blob/master/Go/go-design-patterns.pdf)
-  * [Go语言实战](https://github.com/KeKe-Li/book/blob/master/Go/go-in-action.pdf)
-  * [Go开发实践](https://github.com/KeKe-Li/book/blob/master/Go/go-in-practice.pdf)
-  * [GO编程概览](https://github.com/KeKe-Li/book/blob/master/Go/go-programming-blueprints-2nd.pdf)
-  * [Go web开发](https://github.com/KeKe-Li/book/blob/master/Go/go-web-programming.pdf)
-  * [Go语言圣经中文版](https://github.com/KeKe-Li/book/blob/master/Go/Go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.pdf)
-  * [Go语言实战中文版](https://github.com/KeKe-Li/book/blob/master/Go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.pdf)
-  * [Go语言编程](https://github.com/KeKe-Li/book/blob/master/Go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
-  * [学习Go语言](https://github.com/KeKe-Li/book/blob/master/Go/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf) 
+  * [Go Web 编程](https://github.com/KeKe-Li/book/blob/master/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)
+  * [Go学习笔记](https://github.com/KeKe-Li/book/blob/master/go/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
+  * [Go Recipes](https://github.com/KeKe-Li/book/blob/master/go/Go%2BRecipes.pdf)
+  * [Go语言标准库](https://github.com/KeKe-Li/book/blob/master/go/Go%E8%AF%AD%E8%A8%80%E6%A0%87%E5%87%86%E5%BA%93.pdf)
+  * [Introducing-Go](https://github.com/KeKe-Li/book/blob/master/go/Introducing-Go.pdf)
+  * [Go语言圣经](https://github.com/KeKe-Li/book/blob/master/go/The.Go.Programming.Language.pdf)
+  * [AntitextbookGo](https://github.com/KeKe-Li/book/blob/master/go/antitextbookGo.pdf)
+  * [Go-building-web-applications](https://github.com/KeKe-Li/book/blob/master/go/go-building-web-applications.pdf)
+  * [Go-design-patterns](https://github.com/KeKe-Li/book/blob/master/go/go-design-patterns.pdf)
+  * [Go语言实战](https://github.com/KeKe-Li/book/blob/master/go/go-in-action.pdf)
+  * [Go开发实践](https://github.com/KeKe-Li/book/blob/master/go/go-in-practice.pdf)
+  * [GO编程概览](https://github.com/KeKe-Li/book/blob/master/go/go-programming-blueprints-2nd.pdf)
+  * [Go web开发](https://github.com/KeKe-Li/book/blob/master/go/go-web-programming.pdf)
+  * [Go语言圣经中文版](https://github.com/KeKe-Li/book/blob/master/go/gopl-zh.pdf)
+  * [Go语言实战中文版](https://github.com/KeKe-Li/book/blob/master/go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.pdf)
+  * [Go语言编程](https://github.com/KeKe-Li/book/blob/master/go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
+  * [学习Go语言](https://github.com/KeKe-Li/book/blob/master/go/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf) 
   * [Go官方文档翻译](https://github.com/golang-china/golangdoc.translations)
   * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
   * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
   * [Go入门指南](https://github.com/KeKe-Li/book/blob/master/Go/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
   * [GoExample](https://gobyexample.com/)
   * [Go语言入门](https://zengweigang.gitbooks.io/core-go/index.html)
-  * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
   * [Machine-Learning-With-Go](https://github.com/KeKe-Li/book/blob/master/Go/Machine-Learning-With-Go.pdf)
   * [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/ch1-basic/readme.html)
   * [Go编程文档](http://docscn.studygolang.com/doc/)
@@ -84,6 +83,8 @@
   * [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
+  * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
+  
 #### React
   * [ES6编码规范](https://github.com/KeKe-Li/book/blob/master/React/ES6%20%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%20-%20Tower.pdf)
   * [JavaScript设计模式与开发实践](https://github.com/KeKe-Li/book/blob/master/React/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)
@@ -147,17 +148,29 @@
   * [微服务:从设计到部署](http://oopsguy.com/books/microservices/index.html)  
   * [微服务学习笔记](https://skyao.gitbooks.io/learning-microservice/content/)
   * [微服务架构与实践](https://github.com/KeKe-Li/book/blob/master/go/micro-service-architect.pdf)
-  * [部署kubernetes集群](https://k8s-install.opsnull.com/)
+  * [部署kubernetes集群](https://github.com/KeKe-Li/kubernetes-tutorial/blob/master/src/cluster/kubernetes-cluster.md)
   * [创建kubernetes集群](http://hardocs.com/d/kubernetes/003-Creating_Kubernetes_Clusters.html)
   * [Kubernetes中文文档](https://www.kubernetes.org.cn/docs)
   * [Kubernetes指南](https://k8smeetup.github.io/docs/tasks/tools/install-kubectl/)
   * [kubectl参考文档](http://kubernetes.kansea.com/docs/user-guide/services/)
   * [Kubernetes架构](https://jimmysong.io/kubernetes-handbook/concepts/)
   * [Rancher中文文档](http://rancher.com/docs/rancher/v1.6/zh/)
+  * [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html)
+  * [Grpc官方文档](https://grpc.io/docs/)
+  * [Grpc官方文档中文版](http://doc.oschina.net/grpc)
+  * [Protobuf官方文档](https://developers.google.com/protocol-buffers/)
+  * [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/parti-prometheus-ji-chu/di-1-zhang-tian-jiang-qi-bing)
+  * [Prometheus实战](https://songjiayang.gitbooks.io/prometheus/content/)
+  * [zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
 
- 
+
+
 ### 编程书大全
-觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信Sen0676,加入我们的交流群一起交流学习！
+觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信，加入我们的交流群一起交流学习！
+<p align="left">
+<img width="260" align="center" src="images/1.jpg" />
+</p>
+
 
 ### License
 This is free software distributed under the terms of the MIT license
