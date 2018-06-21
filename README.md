@@ -1,4 +1,9 @@
 #### 编程书籍的整理和收集
+<p align=''>
+<img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
+<a href="https://twitter.com/perfactsen"><img src="https://img.shields.io/badge/twitter-keke-green.svg?style=flat&colorA=009df2"></a>
+<a href="https://www.zhihu.com/people/sencoed.com/activities"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-keke-green.svg?style=flat&colorA=009df2"></a>
+</p>
  
 目录:
      
@@ -37,7 +42,7 @@
   * [Go开发实践](https://github.com/KeKe-Li/book/blob/master/go/go-in-practice.pdf)
   * [GO编程概览](https://github.com/KeKe-Li/book/blob/master/go/go-programming-blueprints-2nd.pdf)
   * [Go web开发](https://github.com/KeKe-Li/book/blob/master/go/go-web-programming.pdf)
-  * [Go语言圣经中文版](https://github.com/KeKe-Li/book/blob/master/go/gopl-zh.pdf)
+  * [Go语言圣经中文版](https://github.com/KeKe-Li/book/blob/master/Go/Go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.pdf?1528876763291)
   * [Go语言实战中文版](https://github.com/KeKe-Li/book/blob/master/go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.pdf)
   * [Go语言编程](https://github.com/KeKe-Li/book/blob/master/go/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
   * [学习Go语言](https://github.com/KeKe-Li/book/blob/master/go/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf) 
@@ -51,6 +56,7 @@
   * [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/ch1-basic/readme.html)
   * [Go编程文档](http://docscn.studygolang.com/doc/)
   * [GoGC](https://github.com/KeKe-Li/book/blob/master/Go/go-gc.pdf)
+  * [Go设计模式](http://tmrts.com/go-patterns/)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -68,7 +74,7 @@
   * [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
   * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
   * [Shell十三问](https://github.com/wzb56/13_questions_of_shell)
-  * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
+  * [Shell编程范例](https://tinylab.gitbooks.io/shellbook/content/zh/chapters/01-chapter1.html)
   * [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
 #### 大数据
   * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
@@ -163,6 +169,9 @@
   * [Prometheus实战](https://songjiayang.gitbooks.io/prometheus/content/)
   * [zipkin中文文档](https://dyingbleed.gitbooks.io/zipkin/content/)
 
+#### 区块链
+  * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/born/)
+  * [Blockchain区块链资源阅读列表](https://github.com/LiuBoyu/blockchain)
 
 
 ### 编程书大全
